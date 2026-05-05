@@ -1,0 +1,15 @@
+# profile-title: 🏳️ DescVPN Белые списки 🏳️
+# profile-update-interval: 1
+# Date/Time: 2026-05-05 / 21:36 (Moscow)
+# Количество: 9
+# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
+
+vless://87e69b82-5cd7-44dd-8eb3-8603a6764329@51.250.94.95:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://8ca70d96-b40b-4bc4-8a0e-d95d6c075569@51.250.28.126:443?security=reality&encryption=none&pbk=kROAUftrZ74RuvYGe2VydCFDYvj58dlipLrLQxwmOiU&headerType=&fp=qq&spx=%2F&type=tcp&sni=max.ru&sid=bcd3bfcaf8918664#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@84.201.164.124:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=1c.ru&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
+vless://a74649e5-8019-4a2a-abc9-39ab93fb48a3@84.201.134.250:443?flow=xtls-rprx-vision&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A&security=reality&sni=max.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://cf5718f5-c0f3-4b63-8fbf-1de69c1299c5@90.156.218.67:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=sun2-11.userapi.com&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&fp=chrome&alpn=http%2F1.1&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://cf5718f5-c0f3-4b63-8fbf-1de69c1299c5@90.156.218.67:443?flow=xtls-rprx-vision&fp=chrome&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&security=reality&sni=sun2-11.userapi.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://ca65e5f6-0661-4f3d-b5aa-6dc90a3dc29e@158.160.156.30:9543?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yastatic.net&fp=chrome&pbk=oynLxVmZUC9Aw3r4BaQXH_UAuwDaQHrH10euBHWxID4&sid=c537f9a3&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://f8a6ccdaf2f8474b8287a43757951293@51.250.87.19:9443/?type=tcp&sni=5post-gate.x5.ru&fp=random&security=reality&pbk=AgE09mNrPAe9eidpIgw9gVKLC71TgG4L4ctuB3wttiw&sid=aabbccdd#%F0%9F%87%AB%F0%9F%87%AE%20Finland
+trojan://bb06e055ee5b4cb7a3a1e581bd7c09a2@51.250.7.178:9443?security=reality&pbk=vx5RK4STxuAX2947xfELORV0hnIFNxZFRgOtAVk1U3s&headerType=none&fp=random&allowinsecure=0&type=tcp&sni=ya.ru&sid=aabbccdd#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
